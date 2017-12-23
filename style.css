@@ -62,8 +62,7 @@ body .board .column-container .column .column-card-list .card {
     background-color: rgb(148, 199, 8);
     border-radius: 5%;
     margin: 15px;
-    min-width: 15%;
-    max-width: 80%; 
+    width: 100%; 
 }
 body .board .column-container .column .column-card-list .card p {
     padding: 10px;
